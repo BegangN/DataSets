@@ -1,0 +1,55 @@
+Sub-Region,Country,Confirmed,Recovered,Deaths
+Middle Africa,Algeria,"1,572",237,205
+Middle Africa,Angola,19,2,2
+Western Africa,Benin,26,5,1
+Southern Africa,Botswana,13,0,1
+Western Africa,Burkina Faso,414,134,23
+Eastern Africa,Burundi,3,0,0
+Western Africa,Cape Verde,7,0,1
+Middle Africa,Cameroon,730,60,10
+Middle Africa,Central African Republic,8,0,0
+Middle Africa,Chad,10,2,0
+Eastern Africa,Comoros,,,
+Middle Africa,Congo,45,0,5
+Western Africa,C“te d'Ivoire,384,48,3
+Eastern Africa,Djibouti,135,25,0
+Middle Africa,DR Congo,180,9,18
+Northern Africa,Egypt,"1,560",305,103
+Middle Africa,Equatorial Guinea,18,3,0
+Eastern Africa,Eritrea,33,0,0
+Southern Africa,Eswatini,12,7,0
+Eastern Africa,Ethiopia,55,4,2
+Middle Africa,Gabon,34,1,1
+Western Africa,Gambia,4,2,1
+Western Africa,Ghana,313,34,6
+Western Africa,Guinea,164,5,0
+Western Africa,Guinea-Bissau,33,0,0
+Eastern Africa,Kenya,184,12,7
+Southern Africa,Lesotho,,,
+Western Africa,Liberia,31,3,4
+Northern Africa,Libya,21,2,1
+Eastern Africa,Madagascar,93,11,0
+Eastern Africa,Malawi,8,0,1
+Western Africa,Mali,59,16,7
+Western Africa,Mauritania,6,2,1
+Eastern Africa,Mauritius,314,23,7
+Northern Africa,Morocco,"1,346",103,96
+Eastern Africa,Mozambique,17,1,0
+Southern Africa,Namibia,16,2,0
+Western Africa,Niger,342,28,11
+Western Africa,Nigeria,276,44,6
+Eastern Africa,Rwanda,110,7,0
+Middle Africa,Sao Tome & Principe,4,0,0
+Western Africa,Senegal,250,123,2
+Eastern Africa,Seychelles,11,0,0
+Western Africa,Sierra Leone,7,0,0
+Eastern Africa,Somalia,12,1,1
+Southern Africa,South Africa,"1,845",45,18
+Eastern Africa,South Sudan,2,0,0
+Northern Africa,Sudan,14,2,2
+Eastern Africa,Tanzania,25,5,1
+Western Africa,Togo,73,24,3
+Northern Africa,Tunisia,628,25,24
+Eastern Africa,Uganda,53,0,0
+Eastern Africa,Zambia,39,3,1
+Southern Africa,Zimbabwe,11,8,3
